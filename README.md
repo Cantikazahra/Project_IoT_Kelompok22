@@ -19,4 +19,4 @@ Sistem pengaman helm pintar berbasis IoT menggunakan ESP32. Jika pengait helm di
 2. Koneksi (MQTT): Mengirim data status helm via broker agar hemat daya dan respon cepat
 3. Pengolahan Data (Node-RED): Mengolah logika keamanan dan status lokasi secara otomatis di background
 4. Notifikasi Telegram & Maps: Menerima pesan peringatan di HP beserta tautan lokasi Google Maps jika GPS valid
-5. Baterai: Menggunakan baterai 2200 mAh yang tahan dipakai hingga 12–15 jam
+5. Baterai: Menggunakan baterai 2200 mAh yang tahan dipakai hingga 12-15 jam
